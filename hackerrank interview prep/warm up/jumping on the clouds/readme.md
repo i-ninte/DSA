@@ -36,7 +36,9 @@ Sample Output 0
 Explanation 0:
 The player must avoid  and . The game can be won with a minimum of  jumps:
 
-jump(2).png
+
+
+![image](https://github.com/i-ninte/DSA/assets/83280871/ee780439-0caa-4bb8-915d-38e381c0f177)
 
 Sample Input 1
 
@@ -48,7 +50,8 @@ Sample Output 1
 Explanation 1:
 The only thundercloud to avoid is . The game can be won in  jumps:
 
-jump(5).png
+![image](https://github.com/i-ninte/DSA/assets/83280871/4eba8711-e026-4101-81ca-0ba9a017bb97)
+
 
 Language
 Python 3
