@@ -1,6 +1,6 @@
 A space explorer's ship crashed on Mars! They send a series of SOS messages to Earth for help.
 
-NASA_Mars_Rover.jpg
+https://s3.amazonaws.com/hr-challenge-images/16032/1453204202-9e3fd295bb-NASA_Mars_Rover.jpg
 
 Letters in some of the SOS messages are altered by cosmic radiation during transmission. Given the signal received by Earth as a string, , determine how many letters of the SOS message have been changed by radiation.
 
