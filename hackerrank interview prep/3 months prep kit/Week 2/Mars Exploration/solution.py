@@ -15,6 +15,12 @@ import sys
 
 def marsExploration(s):
     # Write your code here
+    original_message = "SOS" * (len(s) // 3)  # Get the expected SOS message
+    changed_count = 0
+    for i in range(len(s)):
+        if s[i] != original_message[i]:
+            changed_count += 1
+    return changed_count
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -26,4 +32,3 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
-
